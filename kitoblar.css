@@ -1,0 +1,64 @@
+.logo {
+    display: flex;
+    gap: 20px;
+    margin-left: 50px;
+}
+
+.span_1 {
+    color: #252420;
+    font-family: sans-serif;
+}
+
+.span_2 {
+    color: #FF7500;
+    font-family: sans-serif;
+}
+
+
+.navbar ul {
+    display: flex;
+    gap: 20px;
+    font-family: sans-serif;
+    float: right;
+    position: relative;
+    top: -60px;
+    margin-right: 200px;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.link:hover {
+    color: #FF7500;
+}
+
+.link:active:hover {
+    width: 100%;
+}
+
+
+.btn {
+    width: 155px;
+    height: 39px;
+    border-radius: 4px;
+    background-color: #FF7500;
+    color: #fff;
+    float: right;
+    margin-left: 898px;
+    border: none;
+    position: relative;
+    top: -100px;
+    cursor: pointer;
+}
+
+
+
+.img-1 {
+    border-radius: 8px;
+}
